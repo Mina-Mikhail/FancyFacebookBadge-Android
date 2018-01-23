@@ -66,9 +66,11 @@ mBadge.setEmoji(Emoji.HAHA); //You can also set Emoji.LIKE, Emoji.WOW etc
 **Please click the image below to enlarge.**
 
 
-<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/HahaSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LikeSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/AngrySnap.png">
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/HahaSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LikeSnap.png">
 
-<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LoveSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/WowSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/SadSnap.png">
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/AngrySnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LoveSnap.png">
+
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/WowSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/SadSnap.png">
 
 ## Contributing
 
