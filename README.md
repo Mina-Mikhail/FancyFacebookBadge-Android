@@ -48,7 +48,7 @@ First of all, need add FacebookBadge to your xml layout.
 
 Second of all, intract with code in java.
 ```java
-FacebookNotificationBadge mBadge = findViewById(R.id.badge);
+FacebookNotificationBadge mBadge = (FacebookNotificationBadge) findViewById(R.id.badge);
 mBadge.setNumber(12); //Set your count
 mBadge.setEmoji(Emoji.HAHA); //You can also set Emoji.LIKE, Emoji.WOW etc
 //mBadge.setTextColor(Pass ur color);
