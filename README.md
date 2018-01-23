@@ -27,6 +27,48 @@ dependencies {
 	compile 'com.github.Shashank02051997:FancyFacebookBadge-Android:1.3'
 }
 ```
+# Fancy Facebook Badge
+Fancy Facebook Badge library for android makes you add bades to the text or image.
+
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/20180123_151014.gif" height="420" width="240">
+
+# Usage
+
+First of all, need add FacebookBadge to your xml layout.
+
+```xml
+<com.shashank.sony.fancyfacebookbadgelib.FacebookNotificationBadge
+        android:id="@+id/badge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_marginBottom="12dp" />
+```
+
+Second of all, intract with code in java.
+```java
+FacebookNotificationBadge mBadge = findViewById(R.id.badge);
+mBadge.setNumber(12); //Set your count
+mBadge.setEmoji(Emoji.HAHA); //You can also set Emoji.LIKE, Emoji.WOW etc
+//mBadge.setTextColor(Pass ur color);
+//mBadge.setText(Pass ur text);
+//mBadge.clear(); //Use to remove or clear the badge
+//mBadge.getTextColor(); //Gives u text color
+//mBadge.isAnimationEnabled(); //Gives u boolean value true or false
+//mBadge.setAnimationEnabled(boolean value); //By default it is true 
+
+```
+
+
+## Screenshots
+
+**Please click the image below to enlarge.**
+
+
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/HahaSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LikeSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/AngrySnap.png">
+
+<img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/LoveSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/WowSnap.png" hspace="20"><img src="https://github.com/Shashank02051997/FancyFacebookBadge-Android/blob/master/Screenshot/SadSnap.png">
 
 ## Contributing
 
